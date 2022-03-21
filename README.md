@@ -1,3 +1,9 @@
+## Inhoud
+
+De weekly nerds heb ik beschreven in mijn wiki.
+
+- [Weekly nerds](https://github.com/basv1996/weekly-nerd-2021/wiki)
+
 # Weekly Nerd @cmda-minor-web 2021 - 2022
 
 Tijdens de minor worden een aantal sessies georganiseerd om kennis te maken met het vakgebied. 
@@ -8,11 +14,7 @@ Workshops, praatjes en lezingen van bedrijven en designers over het vakgebied. N
 - Oriënteren op het vakgebied
 - Vakgerelateerde artikelen leren schrijven
 
-## Inhoud
 
-De weekly nerds heb ik beschreven in mijn wiki
-
-- [Weekly nerds](https://github.com/basv1996/weekly-nerd-2021/wiki)
 
 ## Programma & Werkwijze
 Drie keer wordt er een presentatie gegeven door bedrijven uit het vakgebied. 
